@@ -1,4 +1,4 @@
-# Customer Churn Prediction (Synthetic - 500K)
+# Customer Churn Prediction 
 
 Files included:
 - dataset_500k.csv
@@ -18,4 +18,5 @@ Files included:
 1. Push repo to GitHub.
 2. Visit https://share.streamlit.io and connect your GitHub repo.
 3. Set `app.py` as the entrypoint and deploy.
+
 
